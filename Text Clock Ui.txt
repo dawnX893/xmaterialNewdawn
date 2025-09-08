@@ -1,8 +1,7 @@
 * CLOCK UI
 
 clock__logo
-https://www.youtube.com/c/Bedimcode/
-
+https://www.instagram.com/xdawn893/
 Months abbreviated in
 
 	English
@@ -10,5 +9,6 @@ Months abbreviated in
 
 	Spanish
 	'Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sept', 'Oct', 'Nov', 'Dic'
+
 
 	
